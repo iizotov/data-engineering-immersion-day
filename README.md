@@ -5,16 +5,17 @@ We're super excited that you joined us today! Please go through the labs in the 
 ## Day 1
 | Lab  | Link |
 | ------------- | ------------- |
-| Lab 1. Hydrating the Data Lake with DMS | [Instructions](raw/master/pdf/Lab%201.%20Hydrating%20the%20Data%20Lake%20with%20DMS.pdf)  |
-| Lab 2. ETL with AWS Glue  | [Instructions](raw/master/pdf/Lab%202.%20ETL%20with%20AWS%20Glue.pdf) | 
+| Lab 1. Hydrating the Data Lake with DMS | [Instructions](https://github.com/iizotov/data-engineering-immersion-day/raw/master/pdf/Lab%201.%20Hydrating%20the%20Data%20Lake%20with%20DMS.pdf)  |
+| Lab 2. ETL with AWS Glue  | [Instructions](https://github.com/iizotov/data-engineering-immersion-day/raw/master/pdf/Lab%202.%20ETL%20with%20AWS%20Glue.pdf) | 
+
 
 ## Day 2
 
 | Lab  | Link |
 | ------------- | ------------- |
-| Lab 3 - Prelab. Streaming Anomaly Detection  | [Instructions](raw/master/pdf/Lab%203%20-%20Prelab.%20Streaming%20Anomaly%20Detection.pdf) |
-| Lab 3 - Main. Streaming Anomaly Detection  | [Instructions](raw/master/pdf/Lab%203%20-%20Main.%20Streaming%20Anomaly%20Detection.pdf) |
-| Lab 4. AWS Lake Formation  | [Instructions](raw/master/pdf/Lab%204.%20AWS%20Lake%20Formation.pdf) |
+| Lab 3 - Prelab. Streaming Anomaly Detection  | [Instructions](https://github.com/iizotov/data-engineering-immersion-day/raw/master/pdf/Lab%203%20-%20Prelab.%20Streaming%20Anomaly%20Detection.pdf) |
+| Lab 3 - Main. Streaming Anomaly Detection  | [Instructions](https://github.com/iizotov/data-engineering-immersion-day/raw/master/pdf/Lab%203%20-%20Main.%20Streaming%20Anomaly%20Detection.pdf) |
+| Lab 4. AWS Lake Formation  | [Instructions](https://github.com/iizotov/data-engineering-immersion-day/raw/master/pdf/Lab%204.%20AWS%20Lake%20Formation.pdf) |
 
 
 ## If you want to go deeper...
